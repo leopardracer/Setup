@@ -33,7 +33,7 @@ If you want to get ambitious, you may wish to run the computation on, for exampl
 Further, you may wish to run either your own implementation, or build the `setup-tools` binaries and run those.
 
 Either way, it's still necessary to signal to the server that you are online, in order to be allocated your position in the queue. This can be achieved by running `setup-mpc-client` in a special offline mode,
-or you can use something like the `simulate_client.sh` script in `setup-mpc-client-bash` to acheive the same without running the container, sacrificing visualisation of the ceremony.
+or you can use something like the `simulate_client.sh` script in `setup-mpc-client-bash` to achieve the same without running the container, sacrificing visualisation of the ceremony.
 
 The instructions in [setup-tools](/setup-tools) should guide you on how to build and run the binaries.
 
